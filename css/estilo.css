@@ -39,9 +39,9 @@
 	background-color:#000;
 }
 .tocada{
-	background:#C0C;
-	color: #099;
-	quotes:#FF0 solid 1px;
+	background:#06C;
+	color: #06C;
+	quotes:#06C solid 1px;
 }
 
 .textonota{
@@ -55,70 +55,70 @@
 }
 
 #doS{
-	margin-top:12.5%;
+	margin-top:24.5%;
 	width:30px;
 	height:40%;
 	float:left;
 	margin-left:5%;
 }
 #reS{
-	margin-top:12.5%;
+	margin-top:24.5%;
     width:30px;
 	height:40%;
 	float:left;
 	margin-left:12%;
 }
 #faS{
-	margin-top:12.5%;
+	margin-top:24.5%;
     width:30px;
 	height:40%;
 	float:left;
 	margin-left:26.5%;
 }
 #solS{
-	margin-top:12.5%;
+	margin-top:24.5%;
 	width:30px;
 	height:40%;
 	float:left;
 	margin-left:33.5%;
 }
 #laS{
-	margin-top:12.5%;
+	margin-top:24.5%;
 	width:30px;
 	height:40%;
 	float:left;
 	margin-left:40.5%;
 }
 #doSS{
-	margin-top:12.5%;
+	margin-top:24.5%;
 	width:30px;
 	height:40%;
 	float:left;
 	margin-left:55%;
 }
 #reSS{
-	margin-top:12.5%;
+	margin-top:24.5%;
 	width:30px;
 	height:40%;
 	float:left;
 	margin-left:62%;
 }
 #faSS{
-	margin-top:12.5%;
+	margin-top:24.5%;
 	width:30px;
 	height:40%;
 	float:left;
 	margin-left:76.5%;
 }
 #solSS{
-	margin-top:12.5%;
+	margin-top:24.5%;
 	width:30px;
 	height:40%;
 	float:left;
 	margin-left:83.5%;
 }
 #laSS{
-	margin-top:12.5%;
+	margin-top:24.5%;
 	width:30px;
 	height:40%;
 	float:left;

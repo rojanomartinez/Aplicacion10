@@ -10,7 +10,7 @@ version = "1.0.0">
 <name>Aplicacion10</name>
 
 <description>
-Aplicacion que toca el piano
+Aplicacion que toca el piano y muestra los Plugins
 </description>
 
 <preference name="phonegap-version" value="3.5.0"/>
