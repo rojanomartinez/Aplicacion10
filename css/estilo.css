@@ -20,7 +20,7 @@
 }
 #teclado{
   float: left;
-  width: 101%;
+  width: 100%;
   height: 75%;
 }
 .nota{
@@ -39,9 +39,9 @@
 	background-color:#000;
 }
 .tocada{
-	background:#0FF;
-	color: #FF0;
-	quotes:#F00 solid 1px;
+	background:#06C;
+	color: #06C;
+	quotes:#06C solid 1px;
 }
 
 .textonota{
@@ -59,68 +59,68 @@
 	width:30px;
 	height:40%;
 	float:left;
-	margin-left:5.3%;
+	margin-left:5%;
 }
 #reS{
 	margin-top:24.5%;
     width:30px;
 	height:40%;
 	float:left;
-	margin-left:12.5%;
+	margin-left:12%;
 }
 #faS{
 	margin-top:24.5%;
     width:30px;
 	height:40%;
 	float:left;
-	margin-left:26.8%;
+	margin-left:26.5%;
 }
 #solS{
 	margin-top:24.5%;
 	width:30px;
 	height:40%;
 	float:left;
-	margin-left:34.3%;
+	margin-left:33.5%;
 }
 #laS{
 	margin-top:24.5%;
 	width:30px;
 	height:40%;
 	float:left;
-	margin-left:41.2%;
+	margin-left:40.5%;
 }
 #doSS{
 	margin-top:24.5%;
 	width:30px;
 	height:40%;
 	float:left;
-	margin-left:55.8%;
+	margin-left:55%;
 }
 #reSS{
 	margin-top:24.5%;
 	width:30px;
 	height:40%;
 	float:left;
-	margin-left:62.8%;
+	margin-left:62%;
 }
 #faSS{
 	margin-top:24.5%;
 	width:30px;
 	height:40%;
 	float:left;
-	margin-left:77.3%;
+	margin-left:76.5%;
 }
 #solSS{
 	margin-top:24.5%;
 	width:30px;
 	height:40%;
 	float:left;
-	margin-left:84.5%;
+	margin-left:83.5%;
 }
 #laSS{
 	margin-top:24.5%;
 	width:30px;
 	height:40%;
 	float:left;
-	margin-left:91.7%;
+	margin-left:90.5%;
 }
