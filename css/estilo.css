@@ -20,7 +20,7 @@
 }
 #teclado{
   float: left;
-  width: 100%;
+  width: 101%;
   height: 75%;
 }
 .nota{
@@ -59,68 +59,68 @@
 	width:30px;
 	height:40%;
 	float:left;
-	margin-left:5%;
+	margin-left:5.5%;
 }
 #reS{
 	margin-top:24.5%;
     width:30px;
 	height:40%;
 	float:left;
-	margin-left:12%;
+	margin-left:12.7%;
 }
 #faS{
 	margin-top:24.5%;
     width:30px;
 	height:40%;
 	float:left;
-	margin-left:26.5%;
+	margin-left:27%;
 }
 #solS{
 	margin-top:24.5%;
 	width:30px;
 	height:40%;
 	float:left;
-	margin-left:33.5%;
+	margin-left:34.5%;
 }
 #laS{
 	margin-top:24.5%;
 	width:30px;
 	height:40%;
 	float:left;
-	margin-left:40.5%;
+	margin-left:41.4%;
 }
 #doSS{
 	margin-top:24.5%;
 	width:30px;
 	height:40%;
 	float:left;
-	margin-left:55%;
+	margin-left:56%;
 }
 #reSS{
 	margin-top:24.5%;
 	width:30px;
 	height:40%;
 	float:left;
-	margin-left:62%;
+	margin-left:63%;
 }
 #faSS{
 	margin-top:24.5%;
 	width:30px;
 	height:40%;
 	float:left;
-	margin-left:76.5%;
+	margin-left:77.5%;
 }
 #solSS{
 	margin-top:24.5%;
 	width:30px;
 	height:40%;
 	float:left;
-	margin-left:83.5%;
+	margin-left:84.7%;
 }
 #laSS{
 	margin-top:24.5%;
 	width:30px;
 	height:40%;
 	float:left;
-	margin-left:90.5%;
+	margin-left:91.9%;
 }
