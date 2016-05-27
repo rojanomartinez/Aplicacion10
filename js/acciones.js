@@ -16,6 +16,13 @@ $(document).ready(function(e) {
 		audio.preloadFX('faS', 'audio/FA#.mp3', function(msg){}, function(msg){alert ('Error: ' + msg);});
 		audio.preloadFX('solS', 'audio/SOL#.mp3', function(msg){}, function(msg){alert ('Error: ' + msg);});
 		audio.preloadFX('laS', 'audio/LA#.mp3', function(msg){}, function(msg){alert ('Error: ' + msg);});
+		
+		
+		audio.preloadFX('doSS', 'audio/DO#.mp3', function(msg){}, function(msg){alert ('Error: ' + msg);});
+		audio.preloadFX('reSS', 'audio/RE#.mp3', function(msg){}, function(msg){alert ('Error: ' + msg);});
+		audio.preloadFX('faSS', 'audio/FA#.mp3', function(msg){}, function(msg){alert ('Error: ' + msg);});
+		audio.preloadFX('solSS', 'audio/SOL#.mp3', function(msg){}, function(msg){alert ('Error: ' + msg);});
+		audio.preloadFX('laSS', 'audio/LA#.mp3', function(msg){}, function(msg){alert ('Error: ' + msg);});
 		$('.nota').bind('touchstart', function(){
 			$(this).addClass('tocada');
 			audio.play($(this).attr('id'));
